@@ -9,7 +9,7 @@ root {
 
 body {
     margin: 0;
-m    padding: 1;
+    padding: 1;
 
 #wrapper {
     padding-top: 40px;
